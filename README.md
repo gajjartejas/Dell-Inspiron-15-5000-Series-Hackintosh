@@ -32,3 +32,15 @@ So recently I have ordered correct part from AliExpress. I will check when it ar
 
 > I asked to send me the version with serial number CN-OVW3T3. When configuring Hackintosh, it turned out that the subsystem code is 1028: 0023 (typical for CN-08PKF4), not 1028: 0021. The adapter turned on 2 times, saw the network, but hung up after 5 minutes, which is also characteristic of the CN-08PKF4 series modules. MAC address does not match the one indicated on the label. This product is tampered with and does not work.[Reddit thread ink](https://www.reddit.com/r/hackintosh/comments/c7zcv5/dell_inspiron_15_5000_series_mojave_success/esr2qlm?utm_source=share&utm_medium=web2x)
 
+## Credits
+ - [Apple](https://www.apple.com) for macOS.
+ - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
+ - [goodwin](https://github.com/goodwin) for ALCPlugFix.
+ - [RehabMan](https://github.com/RehabMan) for some patches.
+ - [Steve Zheng](https://github.com/stevezhengshiqi) for some patches.
+ - [Sniki](https://github.com/Sniki) for some patches.
+ - [daliansky](https://github.com/daliansky) for some patches.
+ - [Moh_Ameen](https://github.com/ameenjuz) for some patches.
+ - [al3xtjames](https://github.com/al3xtjames) for clover-theme-oss theme.
+ - [ImmersiveX](https://github.com/ImmersiveX) for clover-theme-minimal-dark theme.
+ - And anyone else that helped to develop and improve hackintoshing.
